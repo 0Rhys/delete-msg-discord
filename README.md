@@ -20,6 +20,6 @@ How to use tool :
    
   3- Write how much delete msg 
   
-  4- clikc chat in DM
+  4- click chat in DM
   
-  5- Look at him while he is deleting and waiting
+  5- Look at it while he is deleting and waiting
